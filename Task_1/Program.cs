@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Задача 41: Пользователь вводит с клавиатуры M чисел в одну линию (не используем Enter). Числа разделены пробелами. Посчитайте, сколько чисел больше 0 ввёл пользователь.
+
+//0 7 8 -2 -2 -> 2
+
+//1, -7, 567, 89, 223-> 3
+Console.Clear();
 Console.WriteLine("Hello, World!");
+Console.WriteLine();
